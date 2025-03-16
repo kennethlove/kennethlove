@@ -1,6 +1,6 @@
 # Howdy 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Howdy+I'm+Kenneth;Or+K+Love,+or+just+klove.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=663399&center=true&multiline=true&repeat=false&width=435&height=100&lines=I'm+Kenneth+Love;or+K+Love+(klove))](https://git.io/typing-svg)
 
 I'm an engineering manager at [O'Reilly Media](https://oreilly.com).
 I'm also a longtime Python and Django engineer, now learning Rust in my free time.
