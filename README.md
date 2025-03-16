@@ -13,7 +13,7 @@ I'm also a longtime Python and Django engineer, now learning Rust in my free tim
     this one will be playable in your browser.
 
 - 🌱 I’m currently learning Rust, but also about self-hosting. It's been fun getting back
-  to building servers again, even if it's just for fun.
+  to building servers again, even if it's just for fun. I'm also learning Mandarin!
 
 - 💬 Ask me about Python, Django, basic Rust, programming in general. Anything, really.
 
@@ -21,6 +21,6 @@ I'm also a longtime Python and Django engineer, now learning Rust in my free tim
 
 - 😄 Pronouns: they/them/any.
 
-[![kennethlove's GitHub stats](https://github-readme-stats.vercel.app/api?username=kennethlove&show_icons=true&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats)
-![kennethlove's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=kennethlove&show_icons=true&theme=catppuccin_mocha)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=kennethlove&theme=catppuccin_mocha)](https://git.io/streak-stats)
+[![kennethlove's GitHub stats](https://github-readme-stats.vercel.app/api?username=kennethlove&show_icons=true&theme=transparent&show=reviews&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+![kennethlove's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=kennethlove&show_icons=true&combine_all_yearly_contributions=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=kennethlove&theme=transparent&hide_border=true)](https://git.io/streak-stats)
