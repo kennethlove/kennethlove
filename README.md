@@ -44,6 +44,8 @@ I offer [mentoring](https://thekennethlove.com/mentoring/) if you're interested.
 
 <https://thekennethlove.com> has all the details.
 
+## 📊 Stats
+
 [![kennethlove's GitHub stats](https://github-readme-stats.vercel.app/api?username=kennethlove&show_icons=true&theme=transparent&show=reviews&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ![kennethlove's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=kennethlove&show_icons=true&theme=transparent&hide_border=true)
