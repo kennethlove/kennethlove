@@ -22,5 +22,7 @@ I'm also a longtime Python and Django engineer, now learning Rust in my free tim
 - 😄 Pronouns: they/them/any.
 
 [![kennethlove's GitHub stats](https://github-readme-stats.vercel.app/api?username=kennethlove&show_icons=true&theme=transparent&show=reviews&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-![kennethlove's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=kennethlove&show_icons=true&combine_all_yearly_contributions=true)
+
+![kennethlove's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=kennethlove&show_icons=true&theme=transparent&hide_border=true)
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=kennethlove&theme=transparent&hide_border=true)](https://git.io/streak-stats)
