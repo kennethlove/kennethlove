@@ -14,7 +14,7 @@ My most recent or worked on Rust projects are:
 
 - [hangry-games](https://github.com/kennethlove/hangry-games)
   A _Hunger Games_ simulator. This was v1. It only runs on desktop.
-- [hangrier_games](https://github.com/kennethlove/hangier_games)
+- [hangrier_games](https://github.com/kennethlove/hangrier_games)
   A _Hunger Games_ simulator, v2. This one will be playable in your browser.
 - [skidmarks](https://github.com/kennethlove/skidmarks)
   A streak tracker for daily/weekly streaks.
