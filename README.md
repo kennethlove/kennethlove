@@ -12,12 +12,12 @@ they/them/any.
 
 My most recent or worked on Rust projects are:
 
-- [hangry-games](https://github.com/kennethlove/hangry-games)
-  A _Hunger Games_ simulator. This was v1. It only runs on desktop.
 - [hangrier_games](https://github.com/kennethlove/hangrier_games)
   A _Hunger Games_ simulator, v2. This one will be playable in your browser.
 - [skidmarks](https://github.com/kennethlove/skidmarks)
   A streak tracker for daily/weekly streaks.
+- [rust-bf](https://github.com/kennethlove/rust-bf)
+  A Brainfuck interpreter, generator, REPL, and IDE.
 
 My top Python/Django libraries are:
 
@@ -32,12 +32,12 @@ My top Python/Django libraries are:
 
 ## 🌱 I’m currently learning
 
-Mostly learning about self-hosting. It's been fun getting back to building
-servers again, even if it's just for fun. I'm also learning Mandarin!
+Mostly about management and Rust. I'm always picking up new pieces of Python, though,
+and just trying to improve myself in general. I'm also learning Mandarin!
 
 ## 💬 Ask me about
 
-Python, Django, basic Rust, programming in general. Anything, really.
+Python, Django, Rust, programming in general. Anything, really.
 I offer [mentoring](https://thekennethlove.com/mentoring/) if you're interested.
 
 ## 📫 How to reach me
