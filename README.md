@@ -21,6 +21,8 @@ My most recent or worked on Rust projects are:
 
 My top Python/Django libraries are:
 
+- [django-admin-action-hero](https://github.com/kennethlove/django-admin-action-hero)
+  An abstract base class and a couple of implementations showing how to make Django admin actions more generic.
 - [django-braces](https://github.com/brack3t/django-braces)
   Mixins for Django's class-based views. Makes CBVs easier and nicer to work with.
 - [django-brackets](https://github.com/brack3t/django-brackets)
