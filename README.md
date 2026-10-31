@@ -26,8 +26,8 @@ absolutely adore the Discworld series. Let's talk about something interesting!
 ## Other fun projects
 
 - [hangrier_games]: A browser-based *Hunger Games* simulator, v2.
-- [skidmarks]: A streak tracker for daily/weekly streaks.
 - [rust-bf]: A Brainfuck interpreter, generator, REPL, and IDE.
+- [skidmarks]: A streak tracker for daily/weekly streaks.
 
 ## The rest
 
